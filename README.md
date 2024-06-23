@@ -1,3 +1,5 @@
+![Shadir's GitHub Banner]((https://studentunion.berkeley.edu/wp-content/uploads/2021/01/Sather-tower-1920x1080-1.png))
+
 ## Hi, I'm Sanjay Amirthraj 👋
 
 <!--
