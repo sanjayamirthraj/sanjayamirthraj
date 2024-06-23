@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - 💭 Interested in Biotech and Blockchain Technology
 - 📫 How to reach me: sanjay.amirthraj@gmail.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjayamirthraj&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<div align="right">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjayamirthraj&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)</div>
   
 ---
 
