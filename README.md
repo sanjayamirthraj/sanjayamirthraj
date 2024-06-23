@@ -1,4 +1,4 @@
-## Sanjay Amirthraj 👋
+## Hi, I'm Sanjay Amirthraj 👋
 
 <!--
 **sanjayamirthraj/sanjayamirthraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 ---
 
 - 🎓 Currently Studying at UC Berkeley
+- 💭 Interested in Biotech and Blockchain Technology
 - 📫 How to reach me: sanjay.amirthraj@gmail.com
   
 ---
