@@ -26,6 +26,4 @@ Here are some ideas to get you started:
 - 🎓 Currently Studying at UC Berkeley
 - 📫 How to reach me: sanjay.amirthraj@gmail.com
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjayamirthraj)](https://github.com/anuraghazra/github-readme-stats)
-
 
