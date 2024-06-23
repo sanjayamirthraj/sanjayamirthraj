@@ -14,6 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div id="badges">
+  <a href="https://www.linkedin.com/in/sanjay-amirthraj/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://x.com/sanjayamirthraj">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+---
 - 🎓 Currently Studying at UC Berkeley
 - 📫 How to reach me: sanjay.amirthraj@gmail.com
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjayamirthraj)](https://github.com/anuraghazra/github-readme-stats)
+
 
