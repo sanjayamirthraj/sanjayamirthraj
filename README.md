@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - 💭 Interested in Biotech and Blockchain Technology
 - 📫 How to reach me: sanjay.amirthraj@gmail.com</div>
 
- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjayamirthraj&layout=compact&theme=vision-friendly-dark)"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjayamirthraj&layout=compact&theme=vision-friendly-dark)"/>
 
   
 
