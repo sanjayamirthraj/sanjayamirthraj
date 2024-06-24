@@ -30,6 +30,8 @@ Here are some ideas to get you started:
 - 💭 Interested in Biotech and Blockchain Technology, but love learning about anything
 - 📫 Reach me at sanjay.amirthraj@gmail.com or sanjay.amirthraj@berkeley.edu
 
+  ---
+
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjayamirthraj&layout=compact&theme=vision-friendly-dark)"/>
 
   
