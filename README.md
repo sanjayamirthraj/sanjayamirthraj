@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - 🎓 Currently Studying at UC Berkeley
 - 💭 Interested in Biotech and Blockchain Technology
 - 📫 How to reach me: sanjay.amirthraj@gmail.com
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjayamirthraj&layout=compact&theme=vision-friendly-dark)">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjayamirthraj&layout=compact&theme=vision-friendly-dark)">
   
 ---
 
