@@ -32,7 +32,11 @@ Here are some ideas to get you started:
 
   ---
 
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjayamirthraj&layout=compact&theme=vision-friendly-dark)"/>
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjayamirthraj&layout=compact&theme=vision-friendly-dark)"/>
+ 
+ <div align="right">
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExejZ3ejl5dnR4czlxaHRoN3ExeGp1bjg2azI3dXRrOXUzZjE3d2g1MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbtJJPft2P7rcpbBdb/giphy.gif" width="125" height="125"/>
+</div>
 
   
 
