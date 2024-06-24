@@ -25,15 +25,15 @@ Here are some ideas to get you started:
 </div>
 
 ---
-<div class="grid-container">
-  <div class="grid-item">
+
 - 🎓 Currently Studying at UC Berkeley
 - 💭 Interested in Biotech and Blockchain Technology
 - 📫 How to reach me: sanjay.amirthraj@gmail.com</div>
-  <div class="grid-item"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjayamirthraj&layout=compact&theme=vision-friendly-dark)"/>
-</div>
+
+ <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjayamirthraj&layout=compact&theme=vision-friendly-dark)"/>
+
   
-</div>
+
 
 
 
