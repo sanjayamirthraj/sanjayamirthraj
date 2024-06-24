@@ -37,7 +37,9 @@ Here are some ideas to get you started:
  
  <div align="right">
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExejZ3ejl5dnR4czlxaHRoN3ExeGp1bjg2azI3dXRrOXUzZjE3d2g1MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbtJJPft2P7rcpbBdb/giphy.gif" width="125" height="125"/>
-</div>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ29xaWlsbmZhMjQyODlhZ2F2MXpkcjY4ODVjbDdzbWN6bGRtYzZ1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.webp" width="150" height="125"/>
+
+ </div>
 
 <!-- https://giphy.com/gifs/Smolverse-builder-smol-smolverse-QXwtfadqo7wbfmT46H -->
 
