@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 - 🎓 Currently Studying at UC Berkeley, and a member of Blockchain at Berkeley!
 - 💭 Interested in Biotech and Blockchain Technology, but love learning about anything
 - 📫 Reach me at sanjay.amirthraj@gmail.com or sanjay.amirthraj@berkeley.edu
+-  Commit every 30 seconds for peace of mind
 
   ---
 
@@ -38,7 +39,7 @@ Here are some ideas to get you started:
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExejZ3ejl5dnR4czlxaHRoN3ExeGp1bjg2azI3dXRrOXUzZjE3d2g1MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbtJJPft2P7rcpbBdb/giphy.gif" width="125" height="125"/>
 </div>
 
-  
+<!-- https://giphy.com/gifs/Smolverse-builder-smol-smolverse-QXwtfadqo7wbfmT46H -->
 
 
 
