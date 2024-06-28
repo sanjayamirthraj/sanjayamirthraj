@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ---
 
 - 🎓 Currently Studying at UC Berkeley, and a member of Blockchain at Berkeley!
-- 💭 Interested in Biotech and Blockchain Technology, but love learning about anything
+- 💭 Interested in Biotech and Blockchain Technology; love learning new things
 - 📫 Reach me at sanjay.amirthraj@gmail.com or sanjay.amirthraj@berkeley.edu
 - 🖥️ Commit every 30 seconds for peace of mind
 
