@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 </div>
 
 ---
-
+- Now @ www.fliptexts.com (Backed by A16Z Speedrun, The House Fund, PearVC, ZFellows, and Ride Ventures)
 - 🎓 UC Berkeley, Blockchain at Berkeley!
 - 📫 Reach me at sanjay.amirthraj@berkeley.edu
 - 🖥️ Commit every 30 seconds for peace of mind
